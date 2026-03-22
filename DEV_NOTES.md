@@ -5,3 +5,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Updated CI cache strategy
 - Tested build on clean environment
+
+## 2026-03-23
+- Consolidated duplicate helper functions
